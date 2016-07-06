@@ -1,7 +1,7 @@
 React Boilerplate
 =================
 
-A simple dev environment to create react components with live reloading.
+The minimal dev environment to create react components with live reloading.
 
 ## Usage
 
