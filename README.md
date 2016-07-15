@@ -11,6 +11,11 @@ npm start
 open http://localhost:3000
 ```
 
+## Production mode
+```
+NODE_ENV=production npm start
+```
+
 #### Linting
 ```
 npm run lint
